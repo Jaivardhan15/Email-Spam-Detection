@@ -51,6 +51,7 @@ email-spam-detector/
 ├── spam.csv                 # Dataset
 ├── train_model.py           # Model training script
 ├── requirements.txt
+```
 
 ## ⚙️ How It Works
 
