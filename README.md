@@ -49,9 +49,7 @@ email-spam-detector/
 │   └── style.css            # Styling
 │
 ├── spam.csv                 # Dataset
-
 ├── train_model.py           # Model training script
-
 ├── requirements.txt
 
 ## ⚙️ How It Works
