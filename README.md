@@ -34,28 +34,19 @@ Frontend: HTML, CSS
 Data Handling: Pandas
 
 ## 📂 Project Structure
+```
 email-spam-detector/
 │
-
 ├── backend/
-
 │   ├── app.py               # Flask backend
-
 │   ├── model.pkl            # Trained ML model
-
 │   └── vectorizer.pkl       # TF-IDF vectorizer
-
 │
 ├── templates/
-
 │   └── index.html           # Frontend UI
-
 │
-
 ├── static/
-
 │   └── style.css            # Styling
-
 │
 ├── spam.csv                 # Dataset
 
